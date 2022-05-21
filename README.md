@@ -1,2 +1,2 @@
-# Diyetisyen-Uygulamas-
+# Diyetisyen-Uygulamasi-
 with PHP
